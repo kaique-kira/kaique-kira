@@ -1,5 +1,10 @@
+<div>
 Hello there!!!
 <img align="center" scr="https://raw.githubusercontent.com/kaique-kira/kaique-kira/main/giphy.gif"/>
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/kaique-kira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaique-kira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -13,7 +18,6 @@ Hello there!!!
   <img align="center" alt="Kira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kira-MySql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div>
-
 
 ##
 
