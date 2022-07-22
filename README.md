@@ -1,19 +1,17 @@
-- 👋 Hi, I’m @kaique-kira
-- 👀 I’m interested in Dev Back End
-- 🌱 I’m currently learning Python, C# and .NET
-- 📫 How to reach me www.linkedin.com/in/kaique-denobi-felipe/
-- PT - BR.
+Hello there!!!
+<div align="center">
+  <a href="https://github.com/kaique-kira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaique-kira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-kira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- Tenho 12 anos na carreira profissional de Gráficas, hoje estudo a cerca de um ano para poder iniciar a carreira de Programador. Em 12 anos de carreira tive muitos aprendizados que acredito fazer de mim um bom profissional.
-Espero levar esse conhecimento comigo e conseguir agregar, assim, melhorando e aperfeiçoando minhas skills no ambiente de trabalho.
-
-English.
-
-- I have 12 years in the professional career of Graphics, today I study for about a year to be able to start a career as a Programmer. In 12 years of career I have learned a lot that I believe make me a good professional.
-I hope to take this knowledge with me and be able to add, thus, improving and perfecting my skills in the work environment.
-
-
-<!---
-kaique-kira/kaique-kira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kira-Java" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Kira-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+</div>
