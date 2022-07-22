@@ -1,6 +1,17 @@
 <div>
 Hello there!!!
-<img align="center" scr="https://raw.githubusercontent.com/kaique-kira/kaique-kira/main/giphy.gif"/>
+ 
+Seja Bem vindo(a)!
+Sou estudante de Programação, e sou Trainee na area também.
+Atualmente tenho focado em melhorar meus conhecimentos em Java, Spring e MySQL também.
+  
+Fique a vontade para entrar em contato, dividir ideias e pedir ajuda, fico muito feliz em ajudar no que eu puder!
+##
+Welcome!
+I'm a programming student, and I'm a Trainee in the area too.
+Currently I have focused on improving my knowledge in Java, Spring and MySQL as well.
+  
+Feel free to get in touch, share ideas and ask for help, I'm very happy to help in any way I can!
 </div>
 
 ##
