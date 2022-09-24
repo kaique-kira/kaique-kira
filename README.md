@@ -37,3 +37,5 @@ Feel free to get in touch, share ideas and ask for help, I'm very happy to help 
   ![Snake animation](https://github.com/kaique-kira/kaique-kira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+--
