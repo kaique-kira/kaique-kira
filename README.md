@@ -5,11 +5,20 @@
 <div>
 Olá! Seja muito bem-vindo! 👾☠🐉🦖💻🎧🎮
 
-Sou um estudante de Análise e Desenvolvimento e atuo como Desenvolvedor Back End Junior, com um pouco mais de um ano de experiência. Minha principal responsabilidade é criar rotinas de desenvolvimento e soluções para aprimorar um portal que oferece serviços como pagamentos, transferências e cartões.
 
-Meu foco principal é a linguagem JavaScript, utilizando o Node.js, e possuo experiência em trabalhar com o banco de dados Oracle. Para garantir eficiência e agilidade, aplico metodologias ágeis em conjunto com o Azure. Essa combinação me permite controlar o board, fazer upload de repositórios e gerenciar o pipeline de desenvolvimento.
+<b>Desenvolvedor FullStack Pleno</b>
 
-Além disso, também possuo conhecimento em Java, utilizando o framework Spring Boot para criar aplicações web.
+Atuo no desenvolvimento e manutenção de sistemas bancários, com foco na criação e aprimoramento de portais. Minhas responsabilidades incluem a elaboração de rotinas de desenvolvimento, testes, implantações e a implementação de soluções para melhoria contínua dos sistemas.
+
+<b>Tecnologias e Ferramentas:</b>
+
+<ul>
+<li>Backend: TypeScript</li>
+<li>Frontend: React</li>
+<li>Banco de Dados: Experiência com diversos bancos de dados, conforme necessidades do projeto.</li>
+<li>Infraestrutura: Utilizo AWS e Docker para garantir a escalabilidade, segurança e eficiência dos sistemas.</li>
+</ul>
+
 
 Fique a vontade para entrar em contato!
 
@@ -17,13 +26,20 @@ Fique a vontade para entrar em contato!
 
 <p align="rigth">
  <img width="300" src="https://github.com/kaique-kira/kaique-kira/assets/83593559/9c25de69-74e8-4355-a5bf-871616645a84">
-</p> Hello! Welcome! 👾☠🐉🦖💻🎧🎮
+</p> Hello there! Welcome! 👾☠🐉🦖💻🎧🎮
 
-I'm a student of Analysis and Development, and I work as a Junior Back End Developer with a little over a year of experience. My main responsibility is to create development routines and solutions to enhance a portal that offers services such as payments, transfers, and cards.
 
-My main focus is on JavaScript, using Node.js, and I have experience working with the Oracle database. To ensure efficiency and agility, I apply agile methodologies in conjunction with Azure. This combination allows me to control the board, upload repositories, and manage the development pipeline.
+<b>Mid-Level FullStack Developer</b>
 
-Additionally, I also have knowledge in Java, using the Spring Boot framework to create web applications.
+I specialize in developing and maintaining banking systems, with a focus on creating and enhancing portals. My responsibilities include designing development workflows, conducting testing, managing deployments, and implementing continuous improvement solutions for systems.
+
+<b>Technologies and Tools:</b>
+<ul>
+<li>Backend: TypeScript</li>
+<li>Frontend: React</li>
+<li>Database: Experience with various databases as required by project needs</li>
+<li>Infrastructure: Proficient in using AWS and Docker to ensure scalability, security, and system efficiency</li>
+</ul>
 
 Feel free to get in touch!
 
@@ -55,4 +71,15 @@ Feel free to get in touch!
 --
 <div align="center">
 <img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+</div>
+
+
+</div>
+--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaique-kira/kaique-kira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaique-kira/kaique-kira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaique-kira/kaique-kira/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
